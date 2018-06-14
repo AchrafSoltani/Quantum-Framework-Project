@@ -1,10 +1,10 @@
 {
-    "name": "achrafsoltani/quantum-framework",
-    "description": "Just another PHP framework",
+    "name": "achrafsoltani/quantum-framework-project",
+    "description": "Just another PHP framework project",
     "type": "project",
     "require": {
-        "php": ">=5.3.0",
-        "league/container": "*"
+        "php": ">=7",
+        "achrafsoltani/quantum-framework": "*"
     },
     "license": "MIT",
     "authors": [
